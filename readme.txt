@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Push to the remote
+Push to the remote from dev -simple
